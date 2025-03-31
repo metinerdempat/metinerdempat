@@ -18,8 +18,6 @@ Innovative full-stack developer turning complex problems into elegant solutions.
 ### Socials
  <a href="https://www.linkedin.com/in/metin-erdem-pat-910138356" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
-### Badges
-
 <b>My GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metinerdempat&show_icons=true&locale=en&layout=compact" alt="metinerdempat" /></p>
 
